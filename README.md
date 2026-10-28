@@ -31,7 +31,7 @@ The challenge focuses on building strong programming fundamentals, enhancing log
 | **Institution** | University of Petroleum and Energy Studies (UPES) |
 | **Program** | B.Tech Computer Science & Engineering |
 | **Course** | Basic Coding with C / 100 Days of Code |
-| **Status** | Active (Day 1 to Day 43 completed) |
+| **Status** | Active (Day 1 to Day 80 completed — 130 Problems Solved) |
 
 ---
 
@@ -44,13 +44,15 @@ Each day's solutions are organized into dedicated daily folders:
 ├── Day 1/
 │   ├── Q1 (User Inputs, Operations & Output).c
 │   └── Q2 (User Inputs, Operations & Output).c
-├── Day 2/
-│   ├── Q3 (User Inputs, Operations & Output).c
-│   └── Q4 (User Inputs, Operations & Output).c
 ...
-├── Day 43/
-│   ├── Q85 (Strings).c
-│   └── Q86 (Strings).c
+├── Day 50/
+│   ├── Q99 (Strings).c
+│   └── Q100 (Strings).c
+├── Day 51/
+│   └── Q101 (Logic Enhancers).c
+...
+├── Day 80/
+│   └── Q130 (File Handling).c
 └── README.md
 `
 
@@ -58,7 +60,7 @@ Each source file contains the problem statement and sample test cases embedded i
 
 ---
 
-## 📊 Progress Tracker (Days 1 – 43)
+## 📊 Progress Tracker (Days 1 – 80)
 
 | Day | Topic / Section | Questions Solved | Status |
 |:---:|:---|:---|:---:|
@@ -105,6 +107,43 @@ Each source file contains the problem statement and sample test cases embedded i
 | **Day 41** | Strings | Q81: String length without built-in function<br>Q82: Print each char on new line | ✅ Completed |
 | **Day 42** | Strings | Q83: Count vowels and consonants<br>Q84: Lowercase to uppercase without built-in | ✅ Completed |
 | **Day 43** | Strings | Q85: Reverse a string<br>Q86: Palindrome string check | ✅ Completed |
+| **Day 44** | Strings | Q87: Count spaces, digits, and special characters<br>Q88: Replace spaces with hyphens | ✅ Completed |
+| **Day 45** | Strings | Q89: Count frequency of character in string<br>Q90: Toggle case of characters | ✅ Completed |
+| **Day 46** | Strings | Q91: Remove vowels from string<br>Q92: First repeating lowercase alphabet | ✅ Completed |
+| **Day 47** | Strings | Q93: Check if two strings are anagrams<br>Q94: Longest word in a sentence | ✅ Completed |
+| **Day 48** | Strings | Q95: String rotation check<br>Q96: Reverse each word in sentence | ✅ Completed |
+| **Day 49** | Strings | Q97: Initials of name<br>Q98: Initials with full surname | ✅ Completed |
+| **Day 50** | Strings | Q99: Date format conversion<br>Q100: Print all substrings | ✅ Completed |
+| **Day 51** | Logic Enhancers | Q101: First and last occurrence of target in sorted array | ✅ Completed |
+| **Day 52** | Logic Enhancers | Q102: Ceil of x in sorted array | ✅ Completed |
+| **Day 53** | Logic Enhancers | Q103: Pivot index of array | ✅ Completed |
+| **Day 54** | Logic Enhancers | Q104: Find pivot integer x | ✅ Completed |
+| **Day 55** | Logic Enhancers | Q105: Majority element in array | ✅ Completed |
+| **Day 56** | Logic Enhancers | Q106: Next greater element (nested loop) | ✅ Completed |
+| **Day 57** | Logic Enhancers | Q107: Previous greater element | ✅ Completed |
+| **Day 58** | Logic Enhancers | Q108: Product of array except self | ✅ Completed |
+| **Day 59** | Logic Enhancers | Q109: Maximum sum subarray of size k | ✅ Completed |
+| **Day 60** | Logic Enhancers | Q110: Maximum element in each sliding window of size k | ✅ Completed |
+| **Day 61** | Logic Enhancers | Q111: First negative integer in each window of size k | ✅ Completed |
+| **Day 62** | Logic Enhancers | Q112: Maximum subarray sum using Kadane's algorithm | ✅ Completed |
+| **Day 63** | Logic Enhancers | Q113: Kth smallest element in array | ✅ Completed |
+| **Day 64** | Logic Enhancers | Q114: Longest substring without repeating characters | ✅ Completed |
+| **Day 65** | Logic Enhancers | Q115: Valid anagrams check | ✅ Completed |
+| **Day 66** | Logic Enhancers | Q116: Two Sum target pair indices | ✅ Completed |
+| **Day 67** | Logic Enhancers | Q117: Merge two sorted arrays | ✅ Completed |
+| **Day 68** | Logic Enhancers | Q118: Find missing number from 0 to n | ✅ Completed |
+| **Day 69** | Logic Enhancers | Q119: Single repeated element in array | ✅ Completed |
+| **Day 70** | File Handling / Strings | Q120: Change string to title case / sentence case | ✅ Completed |
+| **Day 71** | File Handling | Q121: Create text file and write user info using fprintf() | ✅ Completed |
+| **Day 72** | File Handling | Q122: Read file contents line by line using fgets() | ✅ Completed |
+| **Day 73** | File Handling | Q123: Count characters, words, and lines in a text file | ✅ Completed |
+| **Day 74** | File Handling | Q124: Copy source file to destination using fgetc() & fputc() | ✅ Completed |
+| **Day 75** | File Handling | Q125: Append new text line to file without overwriting | ✅ Completed |
+| **Day 76** | File Handling | Q126: Check if file exists and display its contents | ✅ Completed |
+| **Day 77** | File Handling | Q127: Convert lowercase to uppercase from input.txt to output.txt | ✅ Completed |
+| **Day 78** | File Handling | Q128: Count vowels and consonants in text file | ✅ Completed |
+| **Day 79** | File Handling | Q129: Read integers from file, compute sum and average | ✅ Completed |
+| **Day 80** | File Handling | Q130: Store and read student records using fprintf() & fscanf() | ✅ Completed |
 
 ---
 
